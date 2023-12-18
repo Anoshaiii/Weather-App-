@@ -1,0 +1,145 @@
+[
+  {
+    "city": "Karachi", 
+    "lat": "24.8600", 
+    "lng": "67.0100", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Sindh", 
+    "capital": "admin", 
+    "population": "15738000", 
+    "population_proper": "14910352"
+  }, 
+  {
+    "city": "Lahore", 
+    "lat": "31.5497", 
+    "lng": "74.3436", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "admin", 
+    "population": "12306000", 
+    "population_proper": "11126000"
+  }, 
+  {
+    "city": "Faisalabad", 
+    "lat": "31.4167", 
+    "lng": "73.0911", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "minor", 
+    "population": "3203846", 
+    "population_proper": "3203846"
+  }, 
+  {
+    "city": "Rawalpindi", 
+    "lat": "33.6000", 
+    "lng": "73.0333", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "minor", 
+    "population": "2098231", 
+    "population_proper": "2098231"
+  }, 
+  {
+    "city": "Gujranwala", 
+    "lat": "32.1567", 
+    "lng": "74.1900", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "minor", 
+    "population": "2027001", 
+    "population_proper": "2027001"
+  }, 
+  {
+    "city": "Peshawar", 
+    "lat": "34.0144", 
+    "lng": "71.5675", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Khyber Pakhtunkhwa", 
+    "capital": "admin", 
+    "population": "1970042", 
+    "population_proper": "1970042"
+  }, 
+  {
+    "city": "Multan", 
+    "lat": "30.1978", 
+    "lng": "71.4697", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "minor", 
+    "population": "1871843", 
+    "population_proper": "1871843"
+  }, 
+  {
+    "city": "Saidu Sharif", 
+    "lat": "34.7500", 
+    "lng": "72.3572", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Khyber Pakhtunkhwa", 
+    "capital": "minor", 
+    "population": "1860310", 
+    "population_proper": "65000"
+  }, 
+  {
+    "city": "Hyderabad City", 
+    "lat": "25.3792", 
+    "lng": "68.3683", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Sindh", 
+    "capital": "minor", 
+    "population": "1732693", 
+    "population_proper": "1732693"
+  }, 
+  {
+    "city": "Islamabad", 
+    "lat": "33.6931", 
+    "lng": "73.0639", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Islamabad", 
+    "capital": "primary", 
+    "population": "1014825", 
+    "population_proper": "1014825"
+  }, 
+  {
+    "city": "Quetta", 
+    "lat": "30.1833", 
+    "lng": "67.0000", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Balochistan", 
+    "capital": "admin", 
+    "population": "1001205", 
+    "population_proper": "1001205"
+  }, 
+  {
+    "city": "Cantonment", 
+    "lat": "31.5167", 
+    "lng": "74.3833", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "", 
+    "population": "374872", 
+    "population_proper": "374872"
+  }, 
+  {
+    "city": "Wahga", 
+    "lat": "31.6047", 
+    "lng": "74.5731", 
+    "country": "Pakistan", 
+    "iso2": "PK", 
+    "admin_name": "Punjab", 
+    "capital": "", 
+    "population": "26900", 
+    "population_proper": "26900"
+  }
+]
